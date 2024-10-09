@@ -16,11 +16,7 @@ export const navLinks = [
     title: "تماس با ما",
     path: "/"
   },
-  {
-    id: "Components Development",
-    title: "Dev Comp",
-    path: "/DevComponents"
-  }
+
 ];
 
 export const Courses = [
