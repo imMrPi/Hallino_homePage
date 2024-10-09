@@ -16,7 +16,11 @@ import retry_icon from "./retry_icon.svg"
 import cross_icon from "./cross_icon.svg"
 import heart_icon from "./heart.png"
 import pythonIcon from "./pythonIcon.svg"
+import LeftArrowIcon from "./left-arrow.png"
+import RightArrowIcon from "./right-arrow.png"
 export {
+  LeftArrowIcon,
+  RightArrowIcon,
   icon,
   HeroPic,
   servicespic,
